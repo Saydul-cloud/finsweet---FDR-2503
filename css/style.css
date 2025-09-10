@@ -1,0 +1,45 @@
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+
+
+.navbar{
+    background: rgba(28, 30, 83, 1);
+    padding: 16px !important;
+}
+.navbar .navbar-nav{
+    column-gap: 32px;
+}
+.navbar .nav-link{
+color: rgba(255, 255, 255, 0.845);
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+font-family: "Poppins", sans-serif;
+transition: .4s;
+padding: 0 !important;
+}
+.navbar .nav-item:hover .nav-link{
+color: rgb(17, 210, 17);
+
+}
+.navbar .navber-button{
+    background: transparent;
+   padding: 16px 48px;
+   border-radius: 41px; 
+color: rgb(255, 255, 255);
+border: 2px solid #F4F6FC33;
+font-size: 16px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+transition: .4s;
+margin-left: 48px;
+}
+.navbar .navber-button:hover{
+background: yellow;
+border-color: transparent;
+color: rgb(0, 0, 0);
+}
