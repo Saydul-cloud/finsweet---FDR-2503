@@ -43,3 +43,74 @@ background: yellow;
 border-color: transparent;
 color: rgb(0, 0, 0);
 }
+
+.banner{
+background: #1C1E53;
+padding-top: 126px;
+padding-bottom: 157px;
+}
+.banner h1{
+font-size: 54px;
+font-weight: 600;
+color: white;
+font-family: "Poppins", sans-serif;
+width: 582px;
+line-height: 74px;
+
+}
+.banner p{
+font-size: 16px;
+font-weight: 500;
+color: white;
+font-family: "Poppins", sans-serif;
+width: 562px;
+line-height: 28px;
+padding-top: 24px;
+padding-bottom: 48px;
+}
+
+.banner .common-button{
+
+background:#FCD980;
+   padding: 16px 56px;
+   border-radius: 41px; 
+color: rgb(0, 0, 0);
+border: 1px solid transparent;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+transition: .4s;
+font-family: "Manrope", sans-serif;
+}
+.banner .common-button:hover{
+   border-color:  #F4F6FC33;
+   background: transparent; 
+   color: white;
+}
+.banner .common-button-ani{
+    color: rgb(255, 255, 255);
+    border: 1px solid transparent;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Manrope", sans-serif;
+    line-height: 28px;
+    margin-left: 40px;
+position: relative;
+}
+.banner .common-button-ani i{
+
+    position: absolute;
+    top: 5px;
+  left: 102px;
+    opacity: 0;
+    transition: .4s;
+    visibility: hidden;
+}
+.banner .common-button-ani:hover i{
+
+left: 122px;
+opacity: 1;
+visibility: visible;
+}
+
+
