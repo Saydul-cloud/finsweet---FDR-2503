@@ -333,5 +333,76 @@ color: #FCD980;
 top: 10px, 45px;
 left: 56px, 239px;
 }
+.feature{
+    background: #F4F6FC;
+    padding: 128px 0;
+}
+ .feature h5{
+color: #282938;
+font-size: 16px;
+font-weight: 500;
+line-height: 28px;
+text-align:center;
+font-family: "Poppins", sans-serif;
+
+
+}
+ .feature h2{
+font-size: 48px;
+font-weight: 600;
+line-height: 64px;
+font-family: "Poppins", sans-serif;
+color: #282938;
+text-align: center;
+width: 630px;
+margin: 0 auto;
+padding-top: 12px;
+padding-bottom: 48px;
+}
+.feature .row{
+row-gap: 24px;
+
+}
+
+
+.feature .card{
+    width: 100% !important;
+    padding-top: 56px;
+padding-bottom: 48px;
+padding-left: 48px;
+padding-right: 32px;
+border: 0;
+
+}
+.feature img{
+    width: 8%;
+}
+ .feature .card .card-body{
+    padding: 0 !important;
+ }
+ .feature .card .card-title{
+    text-align: left;
+  color: #282938;
+font-style: 24px;
+font-weight: 600;
+font-family: "Poppins", sans-serif;
+line-height: 36px;
+padding-top: 22px;
+padding-bottom: 12px;
+ }
+ .feature .card .card-text{
+    text-align: left;
+  color: #282938;
+font-style: 16px;
+font-weight: 400;
+font-family: "Poppins", sans-serif;
+line-height: 28px;
+padding-top: 12px;
+
+ }
+
+ 
+ 
+ 
 
 
