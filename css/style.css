@@ -400,6 +400,72 @@ line-height: 28px;
 padding-top: 12px;
 
  }
+ .client{
+padding: 128px 0px;
+background: #F4F6FC;
+
+ }
+ .client h3{
+font-style: 38px;
+line-height: 56px;
+font-weight: 600;
+font-family: "Poppins", sans-serif;
+color: #282938;
+width: 327px;
+
+ }
+ .client p{
+font-style: 16px;
+line-height: 28px;
+font-weight: 400;
+font-family: "Poppins", sans-serif;
+color: #282938;
+width: 327px;
+padding-top: 16px;
+ }
+ .client h4 {
+font-style: 32px;
+line-height: 48px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+color: #282938;
+
+ }
+
+ .client .box{
+display: flex;
+align-items: center;
+column-gap: 16px;
+
+
+ }
+.box h5{
+
+    font-style: 18px;
+;line-height: 32px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+color: #282938;
+
+ }.box h6{
+
+    font-style: 12px;
+;line-height: 28px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+color: #282938;
+
+ }
+ 
+ .client .profile-image{
+width: 52px;
+height: 52px;
+border-radius: 50%;
+ }
+ .client .profile-image img{
+width: 100%;
+ }
+
 
  
  
