@@ -465,6 +465,63 @@ border-radius: 50%;
  .client .profile-image img{
 width: 100%;
  }
+ .blog{
+    padding-top: 77px;
+    padding-bottom: 179px;
+ }
+ .blog .card{
+    width: 100%;
+    border: 0px;
+ }
+ .blog .card-body{
+padding: 0px;
+
+ }
+ .blog .card-date{
+color: #282938;
+font-style: 16px;
+line-height: 28px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+padding-top: 40px;
+padding-bottom: 16px;
+ }
+ .blog .card-title{
+color: #282938;
+font-style: 24px;
+line-height: 36px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+
+ }
+ .blog .card-text{
+color: #282938ce;
+font-style: 16px;
+line-height: 28px;
+font-weight: 400;
+font-family: "Poppins", sans-serif;
+padding-top: 16px;
+padding-bottom: 32px;
+margin: 0;
+ }
+ .blog .common-ani{
+color:#282938;
+font-style: 16px;
+line-height: 28px;
+font-weight: 500;
+font-family: "Poppins", sans-serif;
+padding-bottom: 32px;
+
+padding: 0;
+ }
+ .blog h2{
+font-style: 48px;
+line-height: 64px;
+font-weight: 600;
+font-family: "Poppins", sans-serif;
+color: #282938;
+padding-bottom: 64px;
+ }
 
 
  
